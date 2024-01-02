@@ -57,8 +57,6 @@ print("Amount:",regr.predict([[3300,1300]]))
 ```
 ## Output:
 
-
-### Insert your output
 ![output](<Screenshot 2024-01-02 154005.png>)
 
 <br>
